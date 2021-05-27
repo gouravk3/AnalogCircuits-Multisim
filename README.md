@@ -1,2 +1,2 @@
 # AnalogCircuits
-Analog Circuits designed in Multisim
+Analog Circuits Designed and Simulated in Multisim
